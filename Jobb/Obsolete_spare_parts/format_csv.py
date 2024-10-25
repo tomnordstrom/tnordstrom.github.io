@@ -41,6 +41,8 @@ def format_csv():
         non_duplicates['File Name'].to_csv(os.path.join(current_dir, 'data/output', f'{machine}_without_duplicates.csv'), index=False, mode='w')
 
         output_txt = os.path.join(current_dir, 'data/output', f'{machine}.txt')
+        with open(output_txt, 'w') as file:
+            file.write('')
         for i in range(len(non_duplicates)):
             with open(output_txt, 'a') as file:
                 if i < 200:
@@ -76,6 +78,18 @@ def obsolete_articles():
     df2_filtered = df2[~df2['File Name'].isin(df1['File Name'])]
 
     df2_filtered.to_csv(os.path.join(current_dir, 'data/output', 'articles_to_delete.csv'), index=False, mode='w')
+
+    obsolete_articles_txt = os.path.join(current_dir, 'data/output', 'obsolete_articles.txt')
+    with open(obsolete_articles_txt, 'w') as file:
+        file.write('')
+    for i in range(len(df2_filtered)):
+        with open(obsolete_articles_txt, 'a') as file:
+            if i < 200:
+                file.write(str(df2_filtered.iloc[i]['File Name']) + ' or ')
+            elif i == 200:
+                file.write("\n" + str(df2_filtered.iloc[i]['File Name']) + ' or ')
+            else:
+                file.write(str(df2_filtered.iloc[i]['File Name']) + ' or ')
 
 
 if __name__ == "__main__":
