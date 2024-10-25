@@ -1,0 +1,576 @@
+File Name,Revision,State (Historical),Created By (sys),Checked In,Comment
+808500.iam,11,Obsolete,TN,2021-01-07 14:26,No longer in production
+802737.iam,02,Released Production,HN,2019-02-02 09:52,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802736.ipt,02,Released Production,TN,2019-03-04 14:13,
+802741.ipt,02,Released Production,HN,2019-02-02 09:53,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802771.ipt,08,Released Production,HN,2019-02-03 12:54,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802439.ipt,06,Released Production,HN,2019-02-02 09:51,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802776.ipt,01,Released Production,HN,2019-02-03 12:54,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807085.iam,01,Released Production,HN,2019-02-03 15:11,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802299.ipt,04,Released Production,HN,2019-02-03 12:33,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802385.iam,03,Released Production,HN,2019-02-03 12:35,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802385-01.ipt,00,Released Production,TN,2019-03-06 13:01,
+802385-02.ipt,00,Released Production,Jobuser,2019-03-11 09:45,Checked in by Naviate
+802391.ipt,03,Released Production,HN,2019-02-03 12:36,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802392.ipt,03,Released Production,HN,2019-02-03 12:36,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802820.iam,02,Released Production,HN,2019-02-03 12:58,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802820-01.ipt,00,Released Production,TN,2019-03-06 16:35,
+802820-02.ipt,00,Released Production,TN,2019-03-06 16:35,
+802833.ipt,02,Released Production,HN,2019-02-03 12:59,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802834.ipt,02,Released Production,HN,2019-02-03 12:59,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802846.ipt,01,Released Production,HN,2019-02-03 13:00,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805344.ipt,02,Released Production,HN,2019-02-03 14:38,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807079.ipt,01,Released Production,HN,2019-02-03 15:11,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807086.ipt,02,Released Production,HN,2019-02-03 15:12,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807087.ipt,02,Released Production,HN,2019-02-03 15:12,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807088.ipt,04,Released Production,HN,2019-02-03 15:12,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807089.ipt,04,Released Production,HN,2019-02-03 15:12,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807090.ipt,00,Released Production,HN,2019-02-03 15:12,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807092.ipt,03,Released Production,HN,2019-02-03 15:12,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807093.ipt,03,Released Production,HN,2019-02-03 15:12,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807125.ipt,00,Released Production,HN,2019-02-03 15:14,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807216.ipt,01,Released Production,HN,2019-02-03 15:18,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807217.ipt,01,Released Production,HN,2019-02-03 15:18,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807265.ipt,00,Released Production,HN,2019-02-03 15:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807129.ipt,00,Released Production,HN,2019-02-03 15:14,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807218.ipt,04,Released Production,HN,2019-02-03 15:18,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807447.ipt,00,Released Production,HN,2019-02-03 15:29,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807454.iam,00,Released Production,HN,2019-02-03 15:29,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802842.ipt,01,Released Production,RK,2022-03-10 13:50,
+807203.ipt,01,Released Production,RK,2022-03-14 11:46,
+807207.ipt,01,Released Production,RK,2022-03-10 14:12,
+807208.ipt,01,Released Production,RK,2022-03-29 13:08,
+807210.ipt,00,Released Production,HN,2019-02-03 15:18,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807846.ipt,00,Released Production,HN,2019-02-03 16:02,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807847.ipt,05,Released Production,RK,2022-03-10 14:36,
+807864.ipt,04,Released Production,HN,2019-02-03 16:02,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808076.ipt,07,Released Production,RydSim,2023-07-20 08:32,
+808122.ipt,03,Released Production,HN,2019-02-03 16:08,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808294.iam,04,Released Production,HN,2019-02-02 12:03,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+804087.iam,07,Released Production,HN,2023-01-12 10:58,
+822405.ipt,01,Released Production,TN,2019-02-22 10:43,
+822406.ipt,01,Released Production,TN,2019-02-22 10:43,
+822483.ipt,01,Released Production,TN,2019-03-04 16:24,
+806603.ipt,04,Released Production,HN,2019-02-03 15:03,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802369.ipt,07,Released Production,HN,2019-02-03 12:35,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802572.ipt,04,Released Production,HN,2019-02-03 12:45,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802816.ipt,04,Released Production,HN,2019-02-03 12:57,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802852.ipt,03,Released Production,HN,2019-02-03 13:01,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802866.ipt,01,Released Production,HN,2019-02-03 13:02,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+803361.ipt,03,Released Production,HN,2019-02-03 13:15,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+804595.ipt,02,Released Production,HN,2019-02-03 14:13,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808124.iam,05,Released Production,DP,2021-08-09 11:15,
+808295.iam,13,Released Production,HN,2019-02-02 10:12,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+812074.iam,00,Released,Admin,2018-12-06 13:03,
+812073.ipt,00,Released,Admin,2018-12-06 13:03,
+812075.iam,00,Released,Admin,2018-12-06 13:03,
+812072.ipt,00,Released,Admin,2018-12-06 13:03,
+812077.iam,00,Released,Admin,2018-12-06 13:03,
+808559.ipt,01,Released Production,TN,2019-03-04 15:23,
+812076.ipt,00,Released Production,TN,2019-03-04 15:23,
+812078.ipt,00,Released,Admin,2018-12-06 13:03,
+812079.ipt,00,Released,Admin,2018-12-06 13:03,
+812080.ipt,01,Released Production,TN,2019-03-04 15:23,
+812081.ipt,00,Released,Admin,2018-12-06 13:03,
+812082.ipt,00,Released Production,TN,2019-03-04 15:23,
+808296.iam,01,Released Production,HN,2019-02-03 16:19,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807254.ipt,00,Released Production,HN,2019-02-03 15:21,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808298.ipt,03,Released Production,HN,2019-02-03 16:19,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808365.ipt,02,Released Production,HN,2019-02-03 16:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808297.iam,01,Released Production,HN,2019-02-03 16:19,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802370.ipt,05,Released Production,HN,2019-02-03 12:35,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808298.ipt,03,Released Production,HN,2019-02-03 16:19,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808632.ipt,03,Released Production,HN,2019-02-03 16:35,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808561.iam,01,Released Production,HN,2019-02-03 16:31,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808562.ipt,01,Released,Admin,2019-06-25 12:57,Attachments modified
+808638.ipt,01,Released Production,HN,2019-02-03 16:35,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+809230.ipt,00,Released Production,HN,2019-02-03 17:03,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808332.iam,03,Released Production,HN,2019-02-03 16:21,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802863.ipt,06,Released Production,HN,2019-02-03 13:02,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807044.ipt,01,Released Production,HN,2019-02-03 15:09,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807045.iam,01,Released Production,HN,2019-02-03 15:09,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807046.ipt,03,Released,Migrering,2018-12-09 00:30,
+807047.ipt,01,Released,Admin,2018-12-06 13:04,
+807161.ipt,01,Released Production,HN,2019-02-03 15:15,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808339.ipt,03,Released Production,HN,2019-02-03 16:21,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808358.ipt,01,Released Production,HN,2019-02-03 16:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808359.ipt,00,Released Production,HN,2019-02-03 16:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808364.ipt,02,Released Production,HN,2019-02-03 16:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808392.ipt,01,Released Production,HN,2019-02-03 16:23,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808397.iam,05,Released Production,HN,2019-02-03 16:23,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802009.ipt,06,Released Production,HN,2019-02-03 12:30,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808394.ipt,02,Released Production,HN,2019-02-03 16:23,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808396.iam,07,Released Production,RydSim,2022-12-16 10:52,
+802008.ipt,12,Released Production,TN,2019-03-04 14:13,
+808398.iam,05,Released,RydSim,2022-12-16 10:01,Released
+802656.ipt,07,Released Production,TN,2019-03-04 14:13,
+802666.ipt,05,Released Production,RydSim,2022-12-16 12:21,
+808399.iam,06,Released,RydSim,2022-12-16 10:12,Released
+802656.ipt,07,Released Production,TN,2019-03-04 14:13,
+802666.ipt,05,Released Production,RydSim,2022-12-16 12:21,
+811363.ipt,00,Released Production,HN,2019-02-03 17:30,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808503.iam,00,Released Production,HN,2019-02-03 16:28,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808433.ipt,00,Released Production,HN,2019-02-03 16:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808563.iam,04,Released Production,HN,2019-02-03 16:31,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808335.ipt,00,Released Production,HN,2019-02-03 16:21,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808336.ipt,02,Released Production,HN,2019-02-03 16:21,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808337.ipt,05,Released Production,HN,2019-02-03 16:21,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808341.ipt,01,Released Production,HN,2019-02-03 16:21,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808342.ipt,01,Released Production,HN,2019-02-03 16:21,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808343.ipt,03,Released Production,HN,2019-02-03 16:21,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808344.ipt,07,Released,Migrering,2018-12-09 00:32,
+808347.ipt,01,Released Production,HN,2019-02-03 16:21,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808348.ipt,01,Released Production,HN,2019-02-03 16:21,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808349.ipt,03,Released Production,HN,2019-02-03 16:21,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808360.ipt,00,Released Production,HN,2019-02-03 16:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808361.ipt,00,Released Production,HN,2019-02-03 16:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808496.ipt,02,Released Production,HN,2019-02-03 16:27,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808497.ipt,02,Released Production,HN,2019-02-03 16:28,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+811143.ipt,00,Released Production,HN,2019-02-03 17:23,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808618.ipt,02,Released Production,HN,2019-02-03 16:34,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808988.ipt,00,Released Production,HN,2019-02-03 16:53,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808334.ipt,03,Released,Migrering,2018-12-09 00:32,
+808338.iam,23,Released Production,RydSim,2023-01-24 14:17,
+802360.ipt,06,Released Production,HN,2019-02-03 12:35,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802801.ipt,05,Released Production,HN,2019-02-03 12:56,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805396.iam,02,Released Production,HN,2019-02-03 14:41,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805379.ipt,02,Released Production,HN,2019-02-03 14:40,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805422.ipt,02,Released Production,HN,2019-02-03 14:42,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+812588.iam,01,Released Production,HN,2019-02-03 18:07,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+812586.ipt,01,Released Production,TN,2019-03-04 16:09,
+812587.ipt,02,Released Production,Admin,2019-06-19 14:05,Attachments modified
+805396.iam,02,Released Production,HN,2019-02-03 14:41,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805379.ipt,02,Released Production,HN,2019-02-03 14:40,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805422.ipt,02,Released Production,HN,2019-02-03 14:42,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+812588.iam,01,Released Production,HN,2019-02-03 18:07,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+812586.ipt,01,Released Production,TN,2019-03-04 16:09,
+812587.ipt,02,Released Production,Admin,2019-06-19 14:05,Attachments modified
+807073.ipt,01,Released Production,Jobuser,2019-03-25 10:25,Checked in by Naviate
+808659.ipt,01,Released Production,HN,2019-02-03 16:36,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+REF1532.ipt,00,Released,Admin,2018-12-06 13:05,
+REF1533.ipt,00,Released,Admin,2018-12-06 13:05,
+REF1534.ipt,00,Released,Admin,2018-12-06 13:05,
+802098.ipt,01,Released Production,HN,2019-02-03 12:33,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802360.ipt,06,Released Production,HN,2019-02-03 12:35,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802803.ipt,04,Released Production,HN,2019-02-03 12:56,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802804.ipt,03,Released Production,HN,2019-02-03 12:56,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802838.iam,01,Released Production,HN,2019-02-03 12:59,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802047.ipt,02,Released Production,HN,2019-02-03 12:32,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802048.ipt,01,Released Production,HN,2019-02-03 12:32,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802843.ipt,03,Released Production,FiSv,2021-09-22 11:18,
+802844.ipt,05,Released Production,HN,2019-02-03 13:00,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802855.ipt,02,Released Production,HN,2019-02-03 13:01,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805194.ipt,03,Released Production,HN,2019-02-03 14:29,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805210.ipt,06,Released Production,HN,2019-02-03 14:30,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805246.ipt,04,Released Production,LL,2024-05-16 15:08,
+805320.ipt,02,Released Production,HN,2019-02-03 14:36,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805361.ipt,01,Released Production,HN,2019-02-03 14:39,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805368.ipt,01,Released Production,HN,2019-02-03 14:40,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805406.iam,02,Released Production,HN,2019-02-03 14:42,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802360.ipt,06,Released Production,HN,2019-02-03 12:35,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802801.ipt,05,Released Production,HN,2019-02-03 12:56,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807022.iam,05,Released Production,HN,2019-02-03 15:07,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807023.ipt,01,Released,Admin,2018-12-06 13:06,
+807077.ipt,02,Released,Admin,2018-12-06 13:06,
+807078.ipt,03,Released,Admin,2018-12-06 13:06,
+807024.ipt,04,Released Production,HN,2019-02-03 15:07,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807034.ipt,01,Released Production,Jobuser,2019-04-09 10:19,Checked in by Naviate
+807038.iam,01,Released Production,HN,2019-02-03 15:08,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807031.ipt,01,Released Production,Jobuser,2019-03-12 12:06,Checked in by Naviate
+807032.ipt,01,Released Production,Jobuser,2019-03-12 12:15,Checked in by Naviate
+807062.ipt,13,Released Production,HN,2019-02-03 15:10,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807063.ipt,14,Released Production,HN,2019-02-03 15:10,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807068.iam,06,Released Production,HN,2019-02-03 15:10,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805166.ipt,01,Released Production,LO,2020-10-26 14:17,
+807067.ipt,01,Released Production,Jobuser,2019-03-25 10:36,Checked in by Naviate
+807368.iam,01,Released Production,Jobuser,2019-03-12 11:50,Checked in by Naviate
+REF0083.ipt,01,Released Production,Jobuser,2019-03-12 10:21,Checked in by Naviate
+REF1299.ipt,01,Released Production,HN,2019-03-12 10:29,
+807369.iam,01,Released Production,Jobuser,2019-03-12 11:24,Checked in by Naviate
+REF0083.ipt,01,Released Production,Jobuser,2019-03-12 10:21,Checked in by Naviate
+REF1299.ipt,01,Released Production,HN,2019-03-12 10:29,
+823504.ipt,00,Released Production,HN,2019-02-03 19:19,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807072.iam,05,Released Production,HN,2019-02-03 15:11,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802022.ipt,01,Released Production,HN,2019-02-03 12:30,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805166.ipt,01,Released Production,LO,2020-10-26 14:17,
+807067.ipt,01,Released Production,Jobuser,2019-03-25 10:36,Checked in by Naviate
+807368.iam,01,Released Production,Jobuser,2019-03-12 11:50,Checked in by Naviate
+REF0083.ipt,01,Released Production,Jobuser,2019-03-12 10:21,Checked in by Naviate
+REF1299.ipt,01,Released Production,HN,2019-03-12 10:29,
+807369.iam,01,Released Production,Jobuser,2019-03-12 11:24,Checked in by Naviate
+REF0083.ipt,01,Released Production,Jobuser,2019-03-12 10:21,Checked in by Naviate
+REF1299.ipt,01,Released Production,HN,2019-03-12 10:29,
+807075.ipt,01,Released Production,HN,2019-05-09 14:10,
+807081.ipt,01,Released Production,HN,2019-05-14 08:41,
+807228.ipt,01,Released Production,Jobuser,2019-04-09 11:06,Checked in by Naviate
+807266.iam,01,Released Production,HN,2019-02-03 15:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802053.ipt,03,Released Production,HN,2019-02-03 12:32,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802054.ipt,03,Released Production,HN,2019-02-03 12:32,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807270.iam,02,Released Production,HN,2019-02-03 15:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802827.ipt,02,Released Production,Admin,2021-10-06 11:29,Property Edit
+805287.ipt,01,Released Production,HN,2019-02-03 14:34,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805288.ipt,04,Released Production,HN,2019-02-03 14:34,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807269.ipt,03,Released Production,HN,2019-02-03 15:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807271.ipt,01,Released Production,Jobuser,2019-03-07 12:03,Checked in by Naviate
+813155.iam,01,Released Production,Admin,2019-06-19 14:22,Attachments modified
+813155-01.ipt,00,Released Production,TN,2019-03-06 14:17,
+813155-02.ipt,00,Released Production,Admin,2019-06-19 14:22,Attachments modified
+808067.iam,01,Released Production,HN,2019-06-25 13:29,
+808065.ipt,01,Released Production,HN,2019-06-25 13:21,
+808066.ipt,01,Released Production,HN,2019-06-25 13:21,
+813411.ipt,00,Released Production,HN,2019-02-03 18:18,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+813412.ipt,00,Released Production,HN,2019-02-03 18:18,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+813413.ipt,00,Released Production,HN,2019-02-03 18:18,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+813423.ipt,00,Released Production,HN,2019-02-03 18:18,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+823033.iam,01,Released Production,HN,2019-02-03 19:14,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+823030.iam,01,Released Production,HN,2019-02-03 19:14,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+823031.ipt,00,Released Production,HN,2019-02-03 19:14,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+823032.ipt,01,Released Production,HN,2019-02-03 19:14,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+823034.ipt,00,Released Production,HN,2019-02-03 19:14,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+823035.ipt,00,Released Production,HN,2019-02-03 19:15,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+823043.iam,00,Released Production,HN,2019-02-03 19:15,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+813415.ipt,01,Released Production,HN,2019-02-03 18:18,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+823044.ipt,00,Released Production,HN,2019-02-03 19:15,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+823045.ipt,01,Released Production,HN,2019-02-03 19:15,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+823046.iam,00,Released Production,HN,2019-02-03 19:15,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+813184.ipt,00,Released Production,HN,2019-02-03 18:15,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+823047.ipt,01,Released Production,HN,2019-02-03 19:15,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+823268.iam,00,Released Production,TN,2020-01-21 11:47,
+802360.ipt,06,Released Production,HN,2019-02-03 12:35,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802801.ipt,05,Released Production,HN,2019-02-03 12:56,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+823637.iam,02,Released Production,LL,2024-05-17 13:38,
+811179.ipt,00,Released Production,RK,2022-08-03 09:57,
+823042.ipt,00,Released Production,HN,2019-02-03 19:15,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+823285.ipt,00,Released Production,DP,2023-04-21 08:57,
+823636.ipt,00,Released Production,HN,2019-02-03 19:20,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+829831.ipt,00,Released Production,HN,2024-01-22 09:52,
+808355.ipt,02,Released Production,HN,2019-02-03 16:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808356.ipt,02,Released Production,HN,2019-02-03 16:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808367.ipt,01,Released Production,HN,2019-02-02 10:12,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808368.ipt,01,Released Production,HN,2019-02-02 10:12,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808369.iam,01,Released Production,HN,2019-02-02 12:03,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808370.iam,01,Released Production,HN,2019-02-02 10:13,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802441.ipt,03,Released Production,HN,2019-02-03 12:39,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808371.ipt,01,Released,Migrering,2018-12-09 00:32,
+808373.iam,03,Released Production,HN,2019-02-02 12:03,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808374.iam,02,Released Production,HN,2019-02-02 10:13,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802779.ipt,02,Released Production,HN,2019-02-03 12:55,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808382.ipt,01,Released,Migrering,2018-12-09 00:32,
+809258.ipt,01,Released Production,RydSim,2023-07-05 14:20,
+962474.ipt,06,Released Production,HN,2019-02-03 19:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+REF1477.jpg,00,Released,Admin,2018-12-06 13:04,
+REF0011.ipt,01,Released Production,HN,2019-09-10 11:53,
+808376.iam,02,Released Production,HN,2019-02-02 12:04,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802741.ipt,02,Released Production,HN,2019-02-02 09:53,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802935.ipt,04,Released Production,HN,2019-02-03 13:06,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802949.ipt,06,Released Production,HN,2019-02-02 09:54,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807262.ipt,00,Released Production,HN,2019-02-03 15:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808377.ipt,01,Released Production,HN,2019-02-03 16:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808378.ipt,00,Released Production,HN,2019-02-02 10:13,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808379.ipt,00,Released Production,HN,2019-02-02 10:13,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+811135.ipt,00,Released Production,HN,2019-02-03 17:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+811136.ipt,00,Released Production,HN,2019-02-03 17:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808385.iam,01,Released Production,HN,2019-02-02 12:04,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808386.iam,02,Released Production,HN,2019-02-02 10:13,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802117.ipt,06,Released Production,HN,2019-02-03 12:33,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802646.ipt,01,Released Production,TN,2019-03-04 14:13,
+802647.ipt,03,Released Production,HN,2019-02-03 12:48,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802685.ipt,01,Released Production,HN,2019-02-03 12:50,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802778.ipt,01,Released Production,ThoSpr,2024-10-15 14:12,
+802793.ipt,01,Released Production,HN,2019-02-03 12:55,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808387.ipt,01,Released,Migrering,2018-12-09 00:32,
+808389.iam,03,Released Production,HN,2019-02-02 10:13,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802117.ipt,06,Released Production,HN,2019-02-03 12:33,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802647.ipt,03,Released Production,HN,2019-02-03 12:48,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802685.ipt,01,Released Production,HN,2019-02-03 12:50,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802693.ipt,03,Released Production,TN,2019-03-04 14:13,
+802778.ipt,01,Released Production,ThoSpr,2024-10-15 14:12,
+802793.ipt,01,Released Production,HN,2019-02-03 12:55,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808390.ipt,04,Released,Migrering,2018-12-09 00:32,
+808410.iam,00,Released Production,HN,2019-02-03 16:23,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808411.iam,00,Released Production,HN,2019-02-03 16:23,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+803407.ipt,02,Released Production,HN,2019-02-03 13:18,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+803409.ipt,01,Released Production,HN,2019-02-03 13:18,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808413.ipt,03,Released Production,HN,2019-02-03 16:23,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808415.ipt,00,Released Production,HN,2019-02-03 16:23,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808416.ipt,00,Released Production,HN,2019-02-03 16:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808419.ipt,00,Released Production,HN,2019-02-03 16:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808417.ipt,00,Released Production,HN,2019-02-03 16:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808420.ipt,00,Released Production,HN,2019-02-03 16:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808421.ipt,00,Released Production,HN,2019-02-03 16:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808434.ipt,00,Released Production,HN,2019-02-03 16:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808435.ipt,01,Released Production,FiSv,2022-03-21 07:43,
+808439.ipt,03,Released Production,HN,2019-02-03 16:25,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808447.iam,01,Obsolete,TN,2021-01-08 08:42,No longer in production
+802043.ipt,08,Released Production,HN,2019-02-03 12:32,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802044.ipt,05,Released Production,HN,2019-02-03 12:32,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802670.iam,06,Released Production,HN,2019-02-03 12:49,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802009.ipt,06,Released Production,HN,2019-02-03 12:30,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802655.ipt,08,Released Production,DP,2022-04-11 14:19,
+802669.iam,16,Released Production,RydSim,2022-12-16 11:42,
+802008.ipt,12,Released Production,TN,2019-03-04 14:13,
+802667.iam,09,Released Production,RydSim,2022-12-16 10:20,
+802656.ipt,07,Released Production,TN,2019-03-04 14:13,
+802666.ipt,05,Released Production,RydSim,2022-12-16 12:21,
+802668.iam,08,Released Production,RydSim,2022-12-16 10:31,
+802656.ipt,07,Released Production,TN,2019-03-04 14:13,
+802666.ipt,05,Released Production,RydSim,2022-12-16 12:21,
+811233.ipt,01,Released Production,Admin,2019-06-26 09:38,Attachments modified
+802863.ipt,06,Released Production,HN,2019-02-03 13:02,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807044.ipt,01,Released Production,HN,2019-02-03 15:09,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807045.iam,01,Released Production,HN,2019-02-03 15:09,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807046.ipt,03,Released,Migrering,2018-12-09 00:30,
+807047.ipt,01,Released,Admin,2018-12-06 13:04,
+807161.ipt,01,Released Production,HN,2019-02-03 15:15,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807060.ipt,03,Released Production,HN,2019-02-03 15:10,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807126.ipt,01,Released Production,HN,2019-02-03 15:14,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807127.ipt,00,Released Production,HN,2019-02-03 15:14,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807128.ipt,00,Released Production,HN,2019-02-03 15:14,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808479.iam,08,Released Production,HN,2019-02-03 16:26,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802827.ipt,02,Released Production,Admin,2021-10-06 11:29,Property Edit
+805286.ipt,04,Released Production,HN,2019-02-03 14:34,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805287.ipt,01,Released Production,HN,2019-02-03 14:34,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805288.ipt,04,Released Production,HN,2019-02-03 14:34,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+813155.iam,01,Released Production,Admin,2019-06-19 14:22,Attachments modified
+813155-01.ipt,00,Released Production,TN,2019-03-06 14:17,
+813155-02.ipt,00,Released Production,Admin,2019-06-19 14:22,Attachments modified
+REF1378.ipt,00,Released,Migrering,2018-12-08 15:45,
+REF1379.ipt,00,Released,Migrering,2018-12-08 15:45,
+802022.ipt,01,Released Production,HN,2019-02-03 12:30,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+803603.ipt,02,Released Production,HN,2019-02-03 13:23,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805024.iam,01,Released Production,JEP,2020-03-26 08:41,
+805025.ipt,01,Released Production,RK,2022-03-10 16:49,
+805320.ipt,02,Released Production,HN,2019-02-03 14:36,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805361.ipt,01,Released Production,HN,2019-02-03 14:39,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805398.iam,01,Released Production,HN,2019-02-03 14:41,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807022.iam,05,Released Production,HN,2019-02-03 15:07,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807023.ipt,01,Released,Admin,2018-12-06 13:06,
+807077.ipt,02,Released,Admin,2018-12-06 13:06,
+807078.ipt,03,Released,Admin,2018-12-06 13:06,
+807024.ipt,04,Released Production,HN,2019-02-03 15:07,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807030.iam,01,Released Production,HN,2019-02-03 15:08,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807031.ipt,01,Released Production,Jobuser,2019-03-12 12:06,Checked in by Naviate
+807032.ipt,01,Released Production,Jobuser,2019-03-12 12:15,Checked in by Naviate
+807033.ipt,00,Released Production,HN,2019-02-03 15:08,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807034.ipt,01,Released Production,Jobuser,2019-04-09 10:19,Checked in by Naviate
+807098.iam,01,Released Production,HN,2019-02-03 15:13,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807099.ipt,01,Released Production,HN,2019-02-03 15:13,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807188.ipt,01,Released Production,HN,2019-02-03 15:16,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807189.ipt,01,Released Production,HN,2019-02-03 15:16,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807172.iam,01,Released Production,HN,2019-02-03 15:16,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807171.ipt,03,Released Production,HN,2019-02-03 15:15,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807190.iam,00,Released Production,HN,2019-02-03 15:16,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807183.ipt,02,Released Production,HN,2019-02-03 15:16,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807193.ipt,01,Released,Migrering,2018-12-09 00:30,
+807194.ipt,03,Released Production,HN,2019-02-03 15:17,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807204.iam,01,Released Production,HN,2019-02-03 15:18,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802809.ipt,03,Released Production,HN,2019-02-03 12:57,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807267.ipt,01,Released Production,HN,2019-02-03 15:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807268.ipt,02,Released Production,HN,2019-02-03 15:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807272.ipt,01,Released Production,HN,2019-02-03 15:23,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807278.ipt,01,Released Production,HN,2019-02-03 15:23,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807456.iam,00,Released Production,HN,2019-02-03 15:30,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807275.ipt,01,Released Production,HN,2019-02-03 15:23,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807276.ipt,00,Released Production,HN,2019-02-03 15:23,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807277.ipt,01,Released Production,HN,2019-02-03 15:23,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807644.ipt,00,Released Production,HN,2019-02-03 15:46,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807813.iam,07,Released Production,HN,2019-02-03 16:00,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807255.ipt,04,Released Production,HN,2019-02-03 15:21,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807489.ipt,01,Released Production,HN,2019-02-03 15:34,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+809100.ipt,02,Released Production,HN,2019-02-03 16:59,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+809151.iam,02,Released Production,SparePartUpdate,2023-11-15 09:32,Property Edit
+808629.ipt,04,Released Production,HN,2022-02-17 12:17,
+809045.ipt,00,Released Production,HN,2019-02-03 16:57,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+809046.ipt,02,Released Production,HN,2019-02-03 16:57,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+809152.ipt,00,Released Production,HN,2019-02-03 17:01,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+812625.iam,02,Released,Admin,2018-12-06 13:05,
+812624.ipt,00,Released,Admin,2018-12-06 13:05,
+812634.ipt,01,Released,Admin,2018-12-06 13:05,
+812627.iam,03,Released Production,HN,2019-02-03 18:08,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+812626.ipt,00,Released Production,FF,2019-04-09 08:57,
+812634.ipt,01,Released,Admin,2018-12-06 13:05,
+807842.ipt,00,Released Production,HN,2019-02-03 16:01,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807848.ipt,02,Released Production,TN,2019-07-15 13:32,
+808315.iam,01,Released Production,HN,2019-02-03 16:20,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808313.ipt,01,Released Production,HN,2019-02-03 16:20,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808375.iam,01,Released Production,HN,2019-02-03 16:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808383.ipt,00,Released Production,HN,2019-02-03 16:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808384.ipt,00,Released Production,HN,2019-02-03 16:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808391.iam,00,Released Production,HN,2019-02-03 16:23,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808393.ipt,00,Released,Admin,2018-12-06 13:06,
+808476.ipt,02,Released Production,HN,2019-02-03 16:26,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808477.ipt,05,Released Production,HN,2019-02-03 16:26,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808480.iam,04,Released Production,HN,2019-02-03 16:27,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807255.ipt,04,Released Production,HN,2019-02-03 15:21,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807489.ipt,01,Released Production,HN,2019-02-03 15:34,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807626.ipt,03,Released Production,HN,2019-02-03 15:44,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+809110.ipt,01,Released Production,HN,2019-02-03 16:59,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+809151.iam,02,Released Production,SparePartUpdate,2023-11-15 09:32,Property Edit
+808629.ipt,04,Released Production,HN,2022-02-17 12:17,
+809045.ipt,00,Released Production,HN,2019-02-03 16:57,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+809046.ipt,02,Released Production,HN,2019-02-03 16:57,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+809152.ipt,00,Released Production,HN,2019-02-03 17:01,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+812629.iam,02,Released,Admin,2018-11-20 15:12,Property Edit
+812628.ipt,00,Released,Migrering,2018-12-09 00:41,
+812634.ipt,01,Released,Admin,2018-12-06 13:05,
+812631.iam,05,Released Production,HN,2019-02-03 18:08,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+812630.ipt,02,Released,Admin,2018-12-06 13:05,
+812634.ipt,01,Released,Admin,2018-12-06 13:05,
+808557.ipt,01,Released Production,HN,2019-02-03 16:31,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808602.iam,01,Released Production,HN,2019-02-03 16:33,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808478.ipt,01,Released Production,HN,2019-02-03 16:26,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808483.ipt,02,Released Production,HN,2019-02-03 16:27,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808493.ipt,01,Released Production,HN,2019-02-03 16:27,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+809175.ipt,01,Released Production,HN,2019-02-03 17:02,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808603.iam,02,Released Production,HN,2021-01-15 11:28,
+801263.ipt,03,Released Production,HN,2019-02-03 12:20,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805048.iam,04,Released Production,TN,2019-09-24 16:36,
+805034.ipt,08,Released Production,HN,2024-06-19 10:56,
+805039.ipt,02,Released Production,RK,2022-03-10 10:41,
+805040.ipt,01,Released Production,RK,2022-03-14 14:12,
+805066.ipt,03,Released Production,HN,2019-02-03 14:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805412.ipt,01,Released Production,Jobuser,2019-03-08 12:20,Checked in by Naviate
+807800.iam,00,Released Production,HN,2019-02-03 15:59,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805064.ipt,03,Released Production,HN,2019-02-03 14:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805365.iam,01,Released Production,HN,2019-02-03 14:40,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805031.ipt,01,Released Production,HN,2019-02-03 14:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805255.ipt,00,Released Production,HN,2019-02-03 14:32,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805367.ipt,03,Released Production,HN,2019-02-03 14:40,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807798.ipt,00,Released Production,HN,2019-02-03 15:59,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807801.iam,01,Released Production,HN,2019-02-03 15:59,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805064.ipt,03,Released Production,HN,2019-02-03 14:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807796.ipt,00,Released Production,HN,2019-02-03 15:59,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+813723.iam,00,Released Production,HN,2019-02-03 18:29,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805031.ipt,01,Released Production,HN,2019-02-03 14:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805255.ipt,00,Released Production,HN,2019-02-03 14:32,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+805367.ipt,03,Released Production,HN,2019-02-03 14:40,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822456.iam,01,Released Production,HN,2024-02-13 10:53,
+801294.ipt,09,Released Production,HN,2023-02-10 10:43,
+805148.ipt,04,Released Production,HN,2020-11-25 10:07,
+807797.ipt,02,Released Production,HN,2023-02-15 12:33,
+808362.ipt,03,Released Production,HN,2022-02-18 08:55,
+822457.iam,05,Released Production,HN,2024-03-07 09:03,
+801070.ipt,03,Released Production,HN,2019-02-03 12:15,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+801292.ipt,04,Released Production,HN,2019-02-03 12:23,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+813389.iam,00,Released Production,HN,2019-02-03 18:17,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+813382.iam,00,Released Production,Admin,2019-06-19 14:05,Attachments modified
+813382-01.ipt,00,Released Production,Admin,2019-06-19 14:06,Attachments modified
+813383.ipt,00,Released Production,TN,2019-03-04 16:09,
+801081.ipt,03,Released Production,HN,2019-02-03 12:16,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+801282.ipt,05,Released Production,HN,2020-12-15 09:22,
+801286.ipt,05,Released Production,HN,2019-02-03 12:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+801287.ipt,03,Released Production,HN,2019-02-03 12:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+801289.ipt,07,Released Production,HN,2020-11-19 15:02,
+801303.ipt,02,Released Production,HN,2019-02-03 12:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+801304.ipt,02,Released Production,HN,2019-02-03 12:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+801375.iam,02,Released Production,HN,2019-02-03 12:29,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+801291.ipt,14,Released Production,RK,2022-04-20 14:21,
+801295.ipt,01,Released Production,Admin,2019-06-25 13:12,Attachments modified
+807026.ipt,04,Released Production,HN,2019-02-03 15:07,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822454.ipt,01,Released Production,HN,2019-02-03 18:52,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822458.ipt,03,Released Production,HN,2019-02-03 18:52,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822459.ipt,02,Released Production,HN,2019-02-03 18:52,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822460.ipt,02,Released Production,HN,2019-02-03 18:52,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822461.ipt,01,Released Production,HN,2019-02-03 18:53,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822462.iam,02,Released Production,HN,2024-01-29 09:08,
+822455.ipt,02,Released Production,HN,2019-02-03 18:52,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822463.ipt,03,Released Production,FiSv,2022-03-14 08:53,
+822464.ipt,01,Released Production,RydSim,2023-07-05 17:20,
+822466.iam,02,Released Production,HN,2020-08-24 10:00,
+822467.ipt,02,Released Production,HN,2020-08-13 08:37,
+822589.ipt,00,Released Production,HN,2019-02-03 18:56,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822470.ipt,02,Released Production,HN,2019-02-03 18:53,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822471.ipt,02,Released Production,RydSim,2023-07-05 16:08,
+822473.ipt,02,Released Production,RydSim,2023-07-17 15:39,
+822482.ipt,01,Released Production,HN,2019-02-03 18:54,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822583.iam,02,Released Production,HN,2024-01-31 08:16,
+801304.ipt,02,Released Production,HN,2019-02-03 12:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822584.ipt,03,Released Production,HN,2020-08-13 09:10,
+829806.ipt,00,Released Production,HN,2023-02-10 10:15,
+829806.ipt,00,Released Production,HN,2023-02-10 10:15,
+822468.iam,02,Released Production,HN,2024-02-13 10:55,
+801293.ipt,09,Released Production,HN,2023-02-10 10:41,
+805148.ipt,04,Released Production,HN,2020-11-25 10:07,
+807799.ipt,02,Released Production,HN,2023-02-15 12:34,
+808363.ipt,03,Released Production,HN,2022-02-18 08:56,
+822469.iam,05,Released Production,HN,2024-03-07 09:17,
+801070.ipt,03,Released Production,HN,2019-02-03 12:15,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+801290.ipt,04,Released Production,HN,2019-02-03 12:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+813389.iam,00,Released Production,HN,2019-02-03 18:17,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+813382.iam,00,Released Production,Admin,2019-06-19 14:05,Attachments modified
+813382-01.ipt,00,Released Production,Admin,2019-06-19 14:06,Attachments modified
+813383.ipt,00,Released Production,TN,2019-03-04 16:09,
+801081.ipt,03,Released Production,HN,2019-02-03 12:16,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+801282.ipt,05,Released Production,HN,2020-12-15 09:22,
+801286.ipt,05,Released Production,HN,2019-02-03 12:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+801287.ipt,03,Released Production,HN,2019-02-03 12:22,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+801288.ipt,07,Released Production,HN,2020-11-18 18:04,
+801303.ipt,02,Released Production,HN,2019-02-03 12:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+801304.ipt,02,Released Production,HN,2019-02-03 12:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+801375.iam,02,Released Production,HN,2019-02-03 12:29,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+801291.ipt,14,Released Production,RK,2022-04-20 14:21,
+801295.ipt,01,Released Production,Admin,2019-06-25 13:12,Attachments modified
+807026.ipt,04,Released Production,HN,2019-02-03 15:07,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822454.ipt,01,Released Production,HN,2019-02-03 18:52,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822458.ipt,03,Released Production,HN,2019-02-03 18:52,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822459.ipt,02,Released Production,HN,2019-02-03 18:52,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822460.ipt,02,Released Production,HN,2019-02-03 18:52,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822461.ipt,01,Released Production,HN,2019-02-03 18:53,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822462.iam,02,Released Production,HN,2024-01-29 09:08,
+822455.ipt,02,Released Production,HN,2019-02-03 18:52,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822463.ipt,03,Released Production,FiSv,2022-03-14 08:53,
+822464.ipt,01,Released Production,RydSim,2023-07-05 17:20,
+822466.iam,02,Released Production,HN,2020-08-24 10:00,
+822467.ipt,02,Released Production,HN,2020-08-13 08:37,
+822589.ipt,00,Released Production,HN,2019-02-03 18:56,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822470.ipt,02,Released Production,HN,2019-02-03 18:53,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822471.ipt,02,Released Production,RydSim,2023-07-05 16:08,
+822474.ipt,02,Released Production,RydSim,2023-07-17 16:11,
+822473.ipt,02,Released Production,RydSim,2023-07-17 15:39,
+822482.ipt,01,Released Production,HN,2019-02-03 18:54,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822583.iam,02,Released Production,HN,2024-01-31 08:16,
+801304.ipt,02,Released Production,HN,2019-02-03 12:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+822584.ipt,03,Released Production,HN,2020-08-13 09:10,
+829806.ipt,00,Released Production,HN,2023-02-10 10:15,
+829806.ipt,00,Released Production,HN,2023-02-10 10:15,
+808604.iam,02,Released Production,HN,2019-02-03 16:34,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807016.ipt,01,Released Production,HN,2019-02-03 15:07,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807025.iam,00,Released Production,HN,2019-02-03 15:07,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807026.ipt,04,Released Production,HN,2019-02-03 15:07,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807187.ipt,01,Released Production,HN,2019-02-03 15:16,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807740.ipt,02,Released Production,HN,2022-06-22 11:06,
+808556.iam,00,Released Production,HN,2019-02-03 16:31,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807028.ipt,01,Released Production,HN,2019-02-03 15:08,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808620.ipt,02,Released Production,HN,2019-02-03 16:34,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808893.ipt,01,Released Production,HN,2019-02-03 16:49,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808922.iam,01,Released Production,HN,2019-02-03 16:50,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808558.ipt,03,Released Production,HN,2019-02-03 16:31,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808913.ipt,00,Released Production,HN,2019-02-03 16:50,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808914.ipt,00,Released Production,HN,2019-02-03 16:50,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808917.iam,01,Released Production,HN,2019-02-03 16:50,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808915.ipt,00,Released,Migrering,2018-12-09 00:34,
+808916.ipt,00,Released,Migrering,2018-12-09 00:34,
+809099.iam,01,Released Production,HN,2019-02-03 16:59,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+807286.ipt,02,Released Production,RydSim,2023-06-28 10:07,
+808977.ipt,02,Released Production,HN,2019-02-03 16:53,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+809098.ipt,00,Released Production,HN,2019-02-03 16:59,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+809109.ipt,02,Released Production,HN,2019-02-03 16:59,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+809161.ipt,02,Released Production,HN,2019-02-03 17:01,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+809162.ipt,02,Released Production,HN,2019-02-03 17:01,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808549.ipt,01,Released Production,HN,2019-02-03 16:30,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808592.iam,06,Released Production,HN,2019-02-03 16:33,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+802650.ipt,03,Released Production,HN,2019-02-03 12:49,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808429.ipt,01,Released Production,HN,2019-02-03 16:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808430.ipt,02,Released Production,HN,2019-02-03 16:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808431.ipt,01,Released Production,HN,2019-02-03 16:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808432.ipt,00,Released Production,HN,2019-02-03 16:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808495.ipt,00,Released Production,HN,2019-02-03 16:27,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808912.ipt,01,Released Production,HN,2019-02-03 16:50,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808919.iam,01,Released Production,HN,2019-02-03 16:50,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+808920.ipt,01,Released,Migrering,2018-12-09 00:34,
+808921.ipt,00,Released,Migrering,2018-12-09 00:34,
+808943.ipt,00,Released Production,HN,2019-02-03 16:51,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+811158.ipt,00,Released Production,HN,2019-02-03 17:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+811160.iam,00,Released Production,HN,2019-02-03 17:24,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+809008.ipt,01,Released Production,HN,2019-02-03 16:54,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.
+809009.ipt,01,Released Production,HN,2019-02-03 16:54,VaultFileStateChanger - Changed from state 'Released' to state 'Released Production'.

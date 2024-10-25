@@ -1,5 +1,5 @@
-\build
-\dist
+Jobb/Knife_chart/build/Knife_guide
+Jobb/Knife_chart/dist
 *.spec
 *.exe
 *.vs
