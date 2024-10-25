@@ -72,10 +72,6 @@ def obsolete_articles():
     df1['File Name'] = df1['File Name'].astype(str)
     df2['File Name'] = df2['File Name'].astype(str)
 
-    # Remove leading/trailing whitespace
-    df1['File Name'] = df1['File Name'].str.strip()
-    df2['File Name'] = df2['File Name'].str.strip()
-
     # Keep only the rows in df2 where 'File Name' is not in df1
     df2_filtered = df2[~df2['File Name'].isin(df1['File Name'])]
 
