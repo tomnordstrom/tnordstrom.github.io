@@ -2,3 +2,5 @@
 \dist
 *.spec
 *.exe
+*.vs
+Jobb/Obsolete_spare_parts/data/output
