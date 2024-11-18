@@ -1,4 +1,10 @@
 
+"""
+To create an exe file:
+cd .\Jobb\Knife_chart\ 
+& "C:\Users\tnordstrom\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\Scripts\pyinstaller.exe" --onefile --windowed .\Knife_guide.py
+"""
+
 import pygame
 
 screen_width = 800
