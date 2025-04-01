@@ -1,0 +1,2327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1680</width>
+    <height>1080</height>
+   </rect>
+  </property>
+  <property name="palette">
+   <palette>
+    <active>
+     <colorrole role="WindowText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Button">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Light">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Midlight">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Dark">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>127</red>
+        <green>127</green>
+        <blue>127</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Mid">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>170</red>
+        <green>170</green>
+        <blue>170</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Text">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="BrightText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="ButtonText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Base">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Window">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Shadow">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="AlternateBase">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="ToolTipBase">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>220</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="ToolTipText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="PlaceholderText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="127">
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+       </color>
+      </brush>
+     </colorrole>
+    </active>
+    <inactive>
+     <colorrole role="WindowText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Button">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>239</red>
+        <green>239</green>
+        <blue>239</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Light">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Midlight">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>202</red>
+        <green>202</green>
+        <blue>202</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Dark">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>159</red>
+        <green>159</green>
+        <blue>159</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Mid">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>184</red>
+        <green>184</green>
+        <blue>184</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Text">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="BrightText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="ButtonText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Base">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Window">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>239</red>
+        <green>239</green>
+        <blue>239</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Shadow">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>118</red>
+        <green>118</green>
+        <blue>118</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="AlternateBase">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>247</red>
+        <green>247</green>
+        <blue>247</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="ToolTipBase">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>220</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="ToolTipText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="PlaceholderText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="128">
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+       </color>
+      </brush>
+     </colorrole>
+    </inactive>
+    <disabled>
+     <colorrole role="WindowText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>127</red>
+        <green>127</green>
+        <blue>127</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Button">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Light">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Midlight">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Dark">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>127</red>
+        <green>127</green>
+        <blue>127</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Mid">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>170</red>
+        <green>170</green>
+        <blue>170</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Text">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>127</red>
+        <green>127</green>
+        <blue>127</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="BrightText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="ButtonText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>127</red>
+        <green>127</green>
+        <blue>127</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Base">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Window">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Shadow">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>177</red>
+        <green>177</green>
+        <blue>177</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="AlternateBase">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>247</red>
+        <green>247</green>
+        <blue>247</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="ToolTipBase">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>220</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="ToolTipText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="PlaceholderText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="128">
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+       </color>
+      </brush>
+     </colorrole>
+    </disabled>
+   </palette>
+  </property>
+  <property name="font">
+   <font>
+    <kerning>true</kerning>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <property name="dockOptions">
+   <set>QMainWindow::AllowTabbedDocks|QMainWindow::AnimatedDocks</set>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>940</y>
+      <width>1661</width>
+      <height>101</height>
+     </rect>
+    </property>
+    <property name="palette">
+     <palette>
+      <active>
+       <colorrole role="Window">
+        <brush brushstyle="SolidPattern">
+         <color alpha="255">
+          <red>0</red>
+          <green>85</green>
+          <blue>255</blue>
+         </color>
+        </brush>
+       </colorrole>
+      </active>
+      <inactive>
+       <colorrole role="Window">
+        <brush brushstyle="SolidPattern">
+         <color alpha="255">
+          <red>239</red>
+          <green>239</green>
+          <blue>239</blue>
+         </color>
+        </brush>
+       </colorrole>
+      </inactive>
+      <disabled>
+       <colorrole role="Window">
+        <brush brushstyle="SolidPattern">
+         <color alpha="255">
+          <red>0</red>
+          <green>85</green>
+          <blue>255</blue>
+         </color>
+        </brush>
+       </colorrole>
+      </disabled>
+     </palette>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>20</pointsize>
+      <kerning>true</kerning>
+     </font>
+    </property>
+    <property name="frameShape">
+     <enum>QFrame::Box</enum>
+    </property>
+    <property name="text">
+     <string>TextLabel</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>0</y>
+      <width>281</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>IOTEST</string>
+    </property>
+   </widget>
+   <widget class="QTabWidget" name="tabWidget">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>50</y>
+      <width>1661</width>
+      <height>811</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+      <weight>75</weight>
+      <italic>false</italic>
+      <bold>true</bold>
+      <kerning>true</kerning>
+     </font>
+    </property>
+    <property name="currentIndex">
+     <number>2</number>
+    </property>
+    <widget class="QWidget" name="tab">
+     <attribute name="title">
+      <string>Inputs</string>
+     </attribute>
+     <widget class="QWidget" name="layoutWidget">
+      <property name="geometry">
+       <rect>
+        <x>30</x>
+        <y>30</y>
+        <width>731</width>
+        <height>491</height>
+       </rect>
+      </property>
+      <layout class="QGridLayout" name="gridLayout">
+       <item row="6" column="1">
+        <widget class="QRadioButton" name="radioButton_16">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+           <weight>75</weight>
+           <italic>false</italic>
+           <bold>true</bold>
+           <kerning>true</kerning>
+          </font>
+         </property>
+         <property name="text">
+          <string>16 Not used</string>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>24</width>
+           <height>24</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="2" column="0">
+        <widget class="QRadioButton" name="radioButton_2">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+           <weight>75</weight>
+           <italic>false</italic>
+           <bold>true</bold>
+           <kerning>true</kerning>
+          </font>
+         </property>
+         <property name="text">
+          <string>2 Stepmotor rotation</string>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>24</width>
+           <height>24</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="3" column="0">
+        <widget class="QRadioButton" name="radioButton_3">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+           <weight>75</weight>
+           <italic>false</italic>
+           <bold>true</bold>
+           <kerning>true</kerning>
+          </font>
+         </property>
+         <property name="text">
+          <string>3 Not used</string>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>24</width>
+           <height>24</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="4" column="1">
+        <widget class="QRadioButton" name="radioButton_14">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+           <weight>75</weight>
+           <italic>false</italic>
+           <bold>true</bold>
+           <kerning>true</kerning>
+          </font>
+         </property>
+         <property name="text">
+          <string>14 Conveyor start</string>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>24</width>
+           <height>24</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="10" column="1">
+        <widget class="QRadioButton" name="radioButton_19">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+           <weight>75</weight>
+           <italic>false</italic>
+           <bold>true</bold>
+           <kerning>true</kerning>
+          </font>
+         </property>
+         <property name="text">
+          <string>19 Not Used</string>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>24</width>
+           <height>24</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="5" column="1">
+        <widget class="QRadioButton" name="radioButton_15">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+           <weight>75</weight>
+           <italic>false</italic>
+           <bold>true</bold>
+           <kerning>true</kerning>
+          </font>
+         </property>
+         <property name="text">
+          <string>15 Not used</string>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>24</width>
+           <height>24</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="8" column="1">
+        <widget class="QRadioButton" name="radioButton_18">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+           <weight>75</weight>
+           <italic>false</italic>
+           <bold>true</bold>
+           <kerning>true</kerning>
+          </font>
+         </property>
+         <property name="text">
+          <string>18 Not used</string>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>24</width>
+           <height>24</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="2" column="1">
+        <widget class="QRadioButton" name="radioButton_12">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+           <weight>75</weight>
+           <italic>false</italic>
+           <bold>true</bold>
+           <kerning>true</kerning>
+          </font>
+         </property>
+         <property name="text">
+          <string>12 EMS fail</string>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>24</width>
+           <height>24</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="3" column="1">
+        <widget class="QRadioButton" name="radioButton_13">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+           <weight>75</weight>
+           <italic>false</italic>
+           <bold>true</bold>
+           <kerning>true</kerning>
+          </font>
+         </property>
+         <property name="text">
+          <string>13 Conveyor full</string>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>24</width>
+           <height>24</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="0" column="1">
+        <widget class="QRadioButton" name="radioButton_11">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+           <weight>75</weight>
+           <italic>false</italic>
+           <bold>true</bold>
+           <kerning>true</kerning>
+          </font>
+         </property>
+         <property name="text">
+          <string>11 Emergency stop</string>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>24</width>
+           <height>24</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="7" column="1">
+        <widget class="QRadioButton" name="radioButton_17">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+           <weight>75</weight>
+           <italic>false</italic>
+           <bold>true</bold>
+           <kerning>true</kerning>
+          </font>
+         </property>
+         <property name="text">
+          <string>17 Not used</string>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>24</width>
+           <height>24</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="4" column="0">
+        <widget class="QRadioButton" name="radioButton_4">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+           <weight>75</weight>
+           <italic>false</italic>
+           <bold>true</bold>
+           <kerning>true</kerning>
+          </font>
+         </property>
+         <property name="text">
+          <string>4 Not used</string>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>24</width>
+           <height>24</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="0" column="0">
+        <widget class="QRadioButton" name="radioButton_1">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+           <weight>75</weight>
+           <italic>false</italic>
+           <bold>true</bold>
+           <kerning>true</kerning>
+          </font>
+         </property>
+         <property name="text">
+          <string>1 Stepmotor Home</string>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>24</width>
+           <height>24</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="11" column="1">
+        <widget class="QRadioButton" name="radioButton_20">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+           <weight>75</weight>
+           <italic>false</italic>
+           <bold>true</bold>
+           <kerning>true</kerning>
+          </font>
+         </property>
+         <property name="text">
+          <string>20 Not used</string>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>24</width>
+           <height>24</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="5" column="0">
+        <widget class="QRadioButton" name="radioButton_5">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+           <weight>75</weight>
+           <italic>false</italic>
+           <bold>true</bold>
+           <kerning>true</kerning>
+          </font>
+         </property>
+         <property name="text">
+          <string>5 Stop plate</string>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>24</width>
+           <height>24</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="6" column="0">
+        <widget class="QRadioButton" name="radioButton_6">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+           <weight>75</weight>
+           <italic>false</italic>
+           <bold>true</bold>
+           <kerning>true</kerning>
+          </font>
+         </property>
+         <property name="text">
+          <string>6 Pallet in place</string>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>24</width>
+           <height>24</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="7" column="0">
+        <widget class="QRadioButton" name="radioButton_7">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+           <weight>75</weight>
+           <italic>false</italic>
+           <bold>true</bold>
+           <kerning>true</kerning>
+          </font>
+         </property>
+         <property name="text">
+          <string>7 Pos sensor left</string>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>24</width>
+           <height>24</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="8" column="0">
+        <widget class="QRadioButton" name="radioButton_8">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+           <weight>75</weight>
+           <italic>false</italic>
+           <bold>true</bold>
+           <kerning>true</kerning>
+          </font>
+         </property>
+         <property name="text">
+          <string>8 Pos sensor right</string>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>24</width>
+           <height>24</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="10" column="0">
+        <widget class="QRadioButton" name="radioButton_9">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+           <weight>75</weight>
+           <italic>false</italic>
+           <bold>true</bold>
+           <kerning>true</kerning>
+          </font>
+         </property>
+         <property name="text">
+          <string>9 Scanner slow</string>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>24</width>
+           <height>24</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="11" column="0">
+        <widget class="QRadioButton" name="radioButton_10">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+           <weight>75</weight>
+           <italic>false</italic>
+           <bold>true</bold>
+           <kerning>true</kerning>
+          </font>
+         </property>
+         <property name="text">
+          <string>10 Scanner stop</string>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>24</width>
+           <height>24</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_3">
+     <attribute name="title">
+      <string>Outputs</string>
+     </attribute>
+     <widget class="QPushButton" name="pushButton_10">
+      <property name="geometry">
+       <rect>
+        <x>1338</x>
+        <y>198</y>
+        <width>250</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>50</weight>
+        <italic>false</italic>
+        <bold>false</bold>
+        <kerning>true</kerning>
+       </font>
+      </property>
+      <property name="text">
+       <string>10 - Red lamp</string>
+      </property>
+      <property name="checkable">
+       <bool>false</bool>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+      <property name="autoDefault">
+       <bool>false</bool>
+      </property>
+      <property name="flat">
+       <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_15">
+      <property name="geometry">
+       <rect>
+        <x>1338</x>
+        <y>374</y>
+        <width>250</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>50</weight>
+        <italic>false</italic>
+        <bold>false</bold>
+        <kerning>true</kerning>
+       </font>
+      </property>
+      <property name="text">
+       <string>15 - Not used</string>
+      </property>
+      <property name="checkable">
+       <bool>false</bool>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+      <property name="autoDefault">
+       <bool>false</bool>
+      </property>
+      <property name="flat">
+       <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_2">
+      <property name="geometry">
+       <rect>
+        <x>390</x>
+        <y>22</y>
+        <width>250</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>50</weight>
+        <italic>false</italic>
+        <bold>false</bold>
+        <kerning>true</kerning>
+       </font>
+      </property>
+      <property name="text">
+       <string>2 - M2 Direction</string>
+      </property>
+      <property name="checkable">
+       <bool>false</bool>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+      <property name="autoDefault">
+       <bool>false</bool>
+      </property>
+      <property name="flat">
+       <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_3">
+      <property name="geometry">
+       <rect>
+        <x>706</x>
+        <y>22</y>
+        <width>250</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>50</weight>
+        <italic>false</italic>
+        <bold>false</bold>
+        <kerning>true</kerning>
+       </font>
+      </property>
+      <property name="text">
+       <string>3 - M1 Start</string>
+      </property>
+      <property name="checkable">
+       <bool>false</bool>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+      <property name="autoDefault">
+       <bool>false</bool>
+      </property>
+      <property name="flat">
+       <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_16">
+      <property name="geometry">
+       <rect>
+        <x>74</x>
+        <y>550</y>
+        <width>250</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>50</weight>
+        <italic>false</italic>
+        <bold>false</bold>
+        <kerning>true</kerning>
+       </font>
+      </property>
+      <property name="text">
+       <string>16 - Not used</string>
+      </property>
+      <property name="checkable">
+       <bool>false</bool>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+      <property name="autoDefault">
+       <bool>false</bool>
+      </property>
+      <property name="flat">
+       <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_4">
+      <property name="geometry">
+       <rect>
+        <x>1022</x>
+        <y>22</y>
+        <width>250</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>50</weight>
+        <italic>false</italic>
+        <bold>false</bold>
+        <kerning>true</kerning>
+       </font>
+      </property>
+      <property name="text">
+       <string>4 - Teach height</string>
+      </property>
+      <property name="checkable">
+       <bool>false</bool>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+      <property name="autoDefault">
+       <bool>false</bool>
+      </property>
+      <property name="flat">
+       <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_1">
+      <property name="geometry">
+       <rect>
+        <x>74</x>
+        <y>22</y>
+        <width>250</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>50</weight>
+        <italic>false</italic>
+        <bold>false</bold>
+        <kerning>true</kerning>
+       </font>
+      </property>
+      <property name="text">
+       <string>1 - M2 Step</string>
+      </property>
+      <property name="checkable">
+       <bool>false</bool>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+      <property name="autoDefault">
+       <bool>false</bool>
+      </property>
+      <property name="flat">
+       <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_6">
+      <property name="geometry">
+       <rect>
+        <x>74</x>
+        <y>198</y>
+        <width>250</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>50</weight>
+        <italic>false</italic>
+        <bold>false</bold>
+        <kerning>true</kerning>
+       </font>
+      </property>
+      <property name="text">
+       <string>6 - Reset Safety</string>
+      </property>
+      <property name="checkable">
+       <bool>false</bool>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+      <property name="autoDefault">
+       <bool>false</bool>
+      </property>
+      <property name="flat">
+       <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_13">
+      <property name="geometry">
+       <rect>
+        <x>706</x>
+        <y>374</y>
+        <width>250</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>50</weight>
+        <italic>false</italic>
+        <bold>false</bold>
+        <kerning>true</kerning>
+       </font>
+      </property>
+      <property name="text">
+       <string>13 - Conv. Ready Signal</string>
+      </property>
+      <property name="checkable">
+       <bool>false</bool>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+      <property name="autoDefault">
+       <bool>false</bool>
+      </property>
+      <property name="flat">
+       <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_17">
+      <property name="geometry">
+       <rect>
+        <x>390</x>
+        <y>550</y>
+        <width>250</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>50</weight>
+        <italic>false</italic>
+        <bold>false</bold>
+        <kerning>true</kerning>
+       </font>
+      </property>
+      <property name="text">
+       <string>17 - Not used</string>
+      </property>
+      <property name="checkable">
+       <bool>false</bool>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+      <property name="autoDefault">
+       <bool>false</bool>
+      </property>
+      <property name="flat">
+       <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_9">
+      <property name="geometry">
+       <rect>
+        <x>1022</x>
+        <y>198</y>
+        <width>250</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>50</weight>
+        <italic>false</italic>
+        <bold>false</bold>
+        <kerning>true</kerning>
+       </font>
+      </property>
+      <property name="text">
+       <string>9 - Yellow lamp</string>
+      </property>
+      <property name="checkable">
+       <bool>false</bool>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+      <property name="autoDefault">
+       <bool>false</bool>
+      </property>
+      <property name="flat">
+       <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_12">
+      <property name="geometry">
+       <rect>
+        <x>390</x>
+        <y>374</y>
+        <width>250</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>50</weight>
+        <italic>false</italic>
+        <bold>false</bold>
+        <kerning>true</kerning>
+       </font>
+      </property>
+      <property name="text">
+       <string>12 - Start conveyor</string>
+      </property>
+      <property name="checkable">
+       <bool>false</bool>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+      <property name="autoDefault">
+       <bool>false</bool>
+      </property>
+      <property name="flat">
+       <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_20">
+      <property name="geometry">
+       <rect>
+        <x>1338</x>
+        <y>550</y>
+        <width>250</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>50</weight>
+        <italic>false</italic>
+        <bold>false</bold>
+        <kerning>true</kerning>
+       </font>
+      </property>
+      <property name="text">
+       <string>20 - Not used</string>
+      </property>
+      <property name="checkable">
+       <bool>false</bool>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+      <property name="autoDefault">
+       <bool>false</bool>
+      </property>
+      <property name="flat">
+       <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_19">
+      <property name="geometry">
+       <rect>
+        <x>1022</x>
+        <y>550</y>
+        <width>250</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>50</weight>
+        <italic>false</italic>
+        <bold>false</bold>
+        <kerning>true</kerning>
+       </font>
+      </property>
+      <property name="text">
+       <string>19 - Not used</string>
+      </property>
+      <property name="checkable">
+       <bool>false</bool>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+      <property name="autoDefault">
+       <bool>false</bool>
+      </property>
+      <property name="flat">
+       <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_8">
+      <property name="geometry">
+       <rect>
+        <x>706</x>
+        <y>198</y>
+        <width>250</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>50</weight>
+        <italic>false</italic>
+        <bold>false</bold>
+        <kerning>true</kerning>
+       </font>
+      </property>
+      <property name="text">
+       <string>8 - Green Lamp</string>
+      </property>
+      <property name="checkable">
+       <bool>false</bool>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+      <property name="autoDefault">
+       <bool>false</bool>
+      </property>
+      <property name="flat">
+       <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_18">
+      <property name="geometry">
+       <rect>
+        <x>706</x>
+        <y>550</y>
+        <width>250</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>50</weight>
+        <italic>false</italic>
+        <bold>false</bold>
+        <kerning>true</kerning>
+       </font>
+      </property>
+      <property name="text">
+       <string>18 - Not used</string>
+      </property>
+      <property name="checkable">
+       <bool>false</bool>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+      <property name="autoDefault">
+       <bool>false</bool>
+      </property>
+      <property name="flat">
+       <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_5">
+      <property name="geometry">
+       <rect>
+        <x>1338</x>
+        <y>22</y>
+        <width>250</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>50</weight>
+        <italic>false</italic>
+        <bold>false</bold>
+        <kerning>true</kerning>
+       </font>
+      </property>
+      <property name="text">
+       <string>5 - Finger release</string>
+      </property>
+      <property name="checkable">
+       <bool>false</bool>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+      <property name="autoDefault">
+       <bool>false</bool>
+      </property>
+      <property name="flat">
+       <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_7">
+      <property name="geometry">
+       <rect>
+        <x>390</x>
+        <y>198</y>
+        <width>250</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>50</weight>
+        <italic>false</italic>
+        <bold>false</bold>
+        <kerning>true</kerning>
+       </font>
+      </property>
+      <property name="text">
+       <string>7 - Heartbeat</string>
+      </property>
+      <property name="checkable">
+       <bool>false</bool>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+      <property name="autoDefault">
+       <bool>false</bool>
+      </property>
+      <property name="flat">
+       <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_14">
+      <property name="geometry">
+       <rect>
+        <x>1022</x>
+        <y>374</y>
+        <width>250</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>50</weight>
+        <italic>false</italic>
+        <bold>false</bold>
+        <kerning>true</kerning>
+       </font>
+      </property>
+      <property name="text">
+       <string>14 - Reset robot</string>
+      </property>
+      <property name="checkable">
+       <bool>false</bool>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+      <property name="autoDefault">
+       <bool>false</bool>
+      </property>
+      <property name="flat">
+       <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_11">
+      <property name="geometry">
+       <rect>
+        <x>74</x>
+        <y>374</y>
+        <width>250</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>250</width>
+        <height>150</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>50</weight>
+        <italic>false</italic>
+        <bold>false</bold>
+        <kerning>true</kerning>
+       </font>
+      </property>
+      <property name="text">
+       <string>11 - Disable full sensor</string>
+      </property>
+      <property name="checkable">
+       <bool>false</bool>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+      <property name="autoDefault">
+       <bool>false</bool>
+      </property>
+      <property name="flat">
+       <bool>false</bool>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_2">
+     <attribute name="title">
+      <string>Analog</string>
+     </attribute>
+     <widget class="QLabel" name="analog1">
+      <property name="geometry">
+       <rect>
+        <x>60</x>
+        <y>110</y>
+        <width>121</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Analog 1</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="analog2">
+      <property name="geometry">
+       <rect>
+        <x>230</x>
+        <y>110</y>
+        <width>121</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Analog 2</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="analog3">
+      <property name="geometry">
+       <rect>
+        <x>390</x>
+        <y>110</y>
+        <width>121</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Analog 3</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="analog4">
+      <property name="geometry">
+       <rect>
+        <x>550</x>
+        <y>110</y>
+        <width>121</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Analog 4</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_7">
+      <property name="geometry">
+       <rect>
+        <x>60</x>
+        <y>50</y>
+        <width>68</width>
+        <height>22</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>1</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_8">
+      <property name="geometry">
+       <rect>
+        <x>230</x>
+        <y>50</y>
+        <width>68</width>
+        <height>22</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>2</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_9">
+      <property name="geometry">
+       <rect>
+        <x>390</x>
+        <y>50</y>
+        <width>68</width>
+        <height>22</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>3</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_10">
+      <property name="geometry">
+       <rect>
+        <x>550</x>
+        <y>50</y>
+        <width>68</width>
+        <height>22</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>4</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="lineEdit">
+      <property name="geometry">
+       <rect>
+        <x>50</x>
+        <y>250</y>
+        <width>113</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>15</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_run1">
+      <property name="geometry">
+       <rect>
+        <x>50</x>
+        <y>310</y>
+        <width>111</width>
+        <height>71</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Run</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="lineEdit_2">
+      <property name="geometry">
+       <rect>
+        <x>210</x>
+        <y>250</y>
+        <width>113</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>15</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="lineEdit_3">
+      <property name="geometry">
+       <rect>
+        <x>370</x>
+        <y>250</y>
+        <width>113</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>15</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="lineEdit_4">
+      <property name="geometry">
+       <rect>
+        <x>520</x>
+        <y>250</y>
+        <width>113</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>15</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_run2">
+      <property name="geometry">
+       <rect>
+        <x>210</x>
+        <y>310</y>
+        <width>111</width>
+        <height>71</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Run</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_run3">
+      <property name="geometry">
+       <rect>
+        <x>370</x>
+        <y>310</y>
+        <width>111</width>
+        <height>71</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Run</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_run4">
+      <property name="geometry">
+       <rect>
+        <x>520</x>
+        <y>310</y>
+        <width>111</width>
+        <height>71</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Run</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_3">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>10</y>
+        <width>68</width>
+        <height>22</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Inputs</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_4">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>200</y>
+        <width>68</width>
+        <height>22</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Outputs</string>
+      </property>
+     </widget>
+    </widget>
+   </widget>
+   <widget class="QPushButton" name="pushButton_exit">
+    <property name="geometry">
+     <rect>
+      <x>1350</x>
+      <y>870</y>
+      <width>321</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="palette">
+     <palette>
+      <active>
+       <colorrole role="Button">
+        <brush brushstyle="SolidPattern">
+         <color alpha="255">
+          <red>219</red>
+          <green>253</green>
+          <blue>255</blue>
+         </color>
+        </brush>
+       </colorrole>
+      </active>
+      <inactive>
+       <colorrole role="Button">
+        <brush brushstyle="SolidPattern">
+         <color alpha="255">
+          <red>239</red>
+          <green>239</green>
+          <blue>239</blue>
+         </color>
+        </brush>
+       </colorrole>
+      </inactive>
+      <disabled>
+       <colorrole role="Button">
+        <brush brushstyle="SolidPattern">
+         <color alpha="255">
+          <red>219</red>
+          <green>253</green>
+          <blue>255</blue>
+         </color>
+        </brush>
+       </colorrole>
+      </disabled>
+     </palette>
+    </property>
+    <property name="text">
+     <string>PushButton</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_transport">
+    <property name="geometry">
+     <rect>
+      <x>1440</x>
+      <y>10</y>
+      <width>231</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+      <weight>75</weight>
+      <italic>false</italic>
+      <bold>true</bold>
+      <kerning>true</kerning>
+     </font>
+    </property>
+    <property name="text">
+     <string>PushButton</string>
+    </property>
+    <property name="flat">
+     <bool>false</bool>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

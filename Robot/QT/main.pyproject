@@ -1,0 +1,3 @@
+{
+    "files": ["main.py", "form.ui", "iotest.ui", "changepallet.ui" , "setup.ui", "error.ui","collision.ui", "MyWidgets.py", "fs100.py"]
+}
