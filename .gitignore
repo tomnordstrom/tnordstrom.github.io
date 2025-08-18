@@ -8,3 +8,6 @@ Jobb/Knife_chart/dist
 *.vs
 Jobb/Obsolete_spare_parts/data/output
 >>>>>>> 47ff5449dc8f8c67f87fb70c5a273673c612dc2c
+
+/machine
+/image
