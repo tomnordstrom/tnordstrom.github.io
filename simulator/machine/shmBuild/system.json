@@ -1,0 +1,21 @@
+{ 
+   handle: 0 ,type:"INT" ,default: 0 ,function: "VARIABLE" ,tagName:"sys_request" 
+}
+{ 
+   handle: 1 ,type:"INT" ,default: 0 ,function: "VARIABLE" ,tagName:"sys_request_param" 
+}
+{ 
+   handle: 2 ,type:"INT" ,default: 0 ,function: "VARIABLE" ,tagName:"sys_request_response" 
+}
+{ 
+   handle: 3 ,type:"TEXT" ,function: "VARIABLE" ,tagName:"sys_request_string"
+}
+{ 
+   handle: 4 ,type:"INT" ,function: "VARIABLE" ,tagName:"sys_request_ip"
+}
+{ 
+   handle: 5 ,type:"INT" ,function: "VARIABLE" ,tagName:"sys_request_netmask"
+}
+{ 
+   handle: 6 ,type:"INT" ,function: "VARIABLE" ,tagName:"sys_request_gateway"
+}

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cp $(cat ../machine/machine_version).lxp /mainusb/machine.lxp
