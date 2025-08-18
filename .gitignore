@@ -1,13 +1,8 @@
+# git rm -r --cached simulator/image
 Jobb/Knife_chart/build/Knife_guide
 Jobb/Knife_chart/dist
 *.spec
 *.exe
-<<<<<<< HEAD
 *__pycache__
-=======
-*.vs
-Jobb/Obsolete_spare_parts/data/output
->>>>>>> 47ff5449dc8f8c67f87fb70c5a273673c612dc2c
 
-/machine
-/image
+**/simulator/image
