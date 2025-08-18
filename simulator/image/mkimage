@@ -1,9 +1,0 @@
-#!/bin/bash
-
-cp empty_machine.lxp $(cat ../machine/machine_version).lxp
-sudo mount $(cat ../machine/machine_version).lxp mnt
-sudo cp -R ../machine/* mnt
-sudo chown -R 1000:1000 mnt/*
-sync
-sleep 1
-sudo umount mnt
