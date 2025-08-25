@@ -5,4 +5,6 @@ Jobb/Knife_chart/dist
 *.exe
 *__pycache__
 
-**/simulator/
+#**/simulator/
+**/image/
+**/machine/

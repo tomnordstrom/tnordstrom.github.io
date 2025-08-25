@@ -1,0 +1,50 @@
+pi@raspberrypi:~/machine $ sudo ./simulator 
+12444.800086248 Gui state:0
+12444.800423248 setting default params
+loadcmos: 0
+./shmUtil -load `cat /home/pi/machine/configfile`
+loadcfg: 0
+read version file: machine_version artno: simulator version: 20250718
+read version file: /startscripts/system_version artno: 751087 version: 20241113
+read version file: /startscripts/boot_version artno: 751086 version: 20231101
+ebm not ready
+ebm0 ebmState CONNECTING
+12445.392547211 machine state:0
+12445.402363748 machine runstate:0
+ebm0 ebmConnect
+ebm0 ebmConnect: 2144
+ebm0 ebm connection established
+HW_Type: 1
+ebm0 ebmState: UPDATING
+12445.472494451 Gui state:5
+ebm0 Hardware Type:1 (EBM-CPU144 144pin)
+version found at pos:668
+ebm0_boot_144.bin appname:751111 BOOT 144 version:20240923
+version found at pos:668
+ebm0_app_144.bin appname:751112 BASE 144 version:20240923
+ebm0 --file bootname:751111 BOOT 144 version:20240923
+ebm0 --file appname:751112 BASE 144 version:20240923
+ebm0 --current bootname:751111 BOOT 144 version:20240923
+ebm0 --current appname:751112 BASE 144 version:20240923
+ebm0 update finished
+12445.492661155 Gui state prev:0
+ebm0 Init hardware begin
+ebm0 Init hardware end
+ebm0 ebmState: READY
+savecmos
+savecmos
+savecmos
+savecmos
+savecmos
+savecmos
+12639.632430391 machine state:2
+SERVO ON
+savecmos
+savecmos
+savecmos
+stepper off (out 12)
+12718.012461307 machine state:1
+ebm0 ebmState NOT CONNECTED
+^C
+pi@raspberrypi:~/machine $ sudo ./simulator 
+
