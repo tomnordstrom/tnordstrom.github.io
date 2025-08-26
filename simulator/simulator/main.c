@@ -370,17 +370,17 @@ bool init_drives(void)
    shared_Mem->integer.Value[INFO_PROGRESS] = 90;   
    //idleloop_cyclic();
    digitax_EnableDrive(&digitaxFeed);
-   //if (mainRebootReq || loopRebootReq || feedRebootReq)
-   //{
+   if (feedRebootReq)
+   {
    //   debugPrint("rebootreq\n");
-   //   shared_Mem->uinteger.Value[STATE] = STATE_REBOOT;
-   //   while (true)
-   //   {
-   //      wait_np(1);
-   //      idleloop_cyclic();
-   //   }
-   //}
-   //feed_SetTorqueMode();
+      shared_Mem->uinteger.Value[STATE] = STATE_REBOOT;
+      while (true)
+      {
+         wait_np(1);
+         //idleloop_cyclic();
+      }
+   }
+   feed_SetTorqueMode();
 
    download_done = 1; 
    shared_Mem->integer.Value[INFO_PROGRESS] = 100;   
@@ -732,7 +732,7 @@ void *idleloop(void *t)
                            printf("SERVO ON\n");
                            SERVO_ON;
                            drvFeed_SetSpeed_rpm(shared_Mem->integer.Value[IO_CMOS_VALUE]);
-                           digitax_Run(&digitaxFeed);
+                           //digitax_Run(&digitaxFeed);
                         }
                         else {
                            SERVO_OFF;
@@ -742,6 +742,7 @@ void *idleloop(void *t)
                      }
                      else {
                         SERVO_OFF;
+                        drvFeed_SetSpeed_rpm(0);
                         printf("Machine not started \n");
                      }
                      break;
