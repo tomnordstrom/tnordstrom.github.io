@@ -362,7 +362,7 @@ bool init_drives(void)
       digitax_SetSpeed(&digitaxFeed, 0);
       digitax_SetTorque(&digitaxFeed, 0);
       
-      //digitax_SetTorqueMode(&digitaxFeed, 2);  // Torque mode
+      digitax_SetTorqueMode(&digitaxFeed, 0);  // Torque mode
       
       drvFeed.download_done = 1;
       //debugPrint("Init feed drive succeeded\n");      
