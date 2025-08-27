@@ -217,38 +217,39 @@ void drvFeed_Init()
    drvFeed.sentSpeed = -1;
    drvFeed.requestedTorque = 0;
    drvFeed.sentTorque = -1;
+   printf("drvfeed done \n");
 }
 
-//void drvFeed_Cyclic()
-//{
-//   static unsigned int cycleCnt = 0;
-//   
-//   ++cycleCnt;
-//   if ((cycleCnt % 50) == 0)
-//      digitax_CheckHealthy(&digitaxFeed);
-//        
-//   // Test
-//   
-///*   drvFeed_SetTorque_percent(-shared_Mem->integer.Value[CFG_OUTCRASH_TIME]);
-//   if (shared_Mem->integer.Value[CFG_OUTCRASH_TIME] <= 0)
-//      drvFeed_SetSpeed_rpm(3000);
-//   else
-//      drvFeed_SetSpeed_rpm(0);
-//*/
-//   if (drvFeed.requestedSpeed != drvFeed.sentSpeed)
-//   {
-//      //debugPrint("inFeedspeed: %d\n",drvFeed.requestedSpeed);
-//      digitax_SetSpeed(&digitaxFeed, drvFeed.requestedSpeed);
-//      drvFeed.sentSpeed = drvFeed.requestedSpeed;
-//   }
-//   if (drvFeed.requestedTorque != drvFeed.sentTorque)
-//   {
-//      digitax_SetTorque(&digitaxFeed, drvFeed.requestedTorque);
-//      drvFeed.sentTorque = drvFeed.requestedTorque;
-//      //debugPrint("FeedTorque: %d\n",drvFeed.requestedTorque);
-//   }
-//      
-//}
+void drvFeed_Cyclic()
+{
+   static unsigned int cycleCnt = 0;
+   
+   ++cycleCnt;
+   if ((cycleCnt % 50) == 0)
+      digitax_CheckHealthy(&digitaxFeed);
+        
+   // Test
+   
+/*   drvFeed_SetTorque_percent(-shared_Mem->integer.Value[CFG_OUTCRASH_TIME]);
+   if (shared_Mem->integer.Value[CFG_OUTCRASH_TIME] <= 0)
+      drvFeed_SetSpeed_rpm(3000);
+   else
+      drvFeed_SetSpeed_rpm(0);
+*/
+   if (drvFeed.requestedSpeed != drvFeed.sentSpeed)
+   {
+      debugPrint("inFeedspeed: %d\n",drvFeed.requestedSpeed);
+      digitax_SetSpeed(&digitaxFeed, drvFeed.requestedSpeed);
+      drvFeed.sentSpeed = drvFeed.requestedSpeed;
+   }
+   if (drvFeed.requestedTorque != drvFeed.sentTorque)
+   {
+      digitax_SetTorque(&digitaxFeed, drvFeed.requestedTorque);
+      drvFeed.sentTorque = drvFeed.requestedTorque;
+      //debugPrint("FeedTorque: %d\n",drvFeed.requestedTorque);
+   }
+      
+}
 
 void drvFeed_SetSpeed_rpm(int speed)
 {
@@ -322,8 +323,7 @@ digitaxParameter_t digitaxParamsFeed[] =
 
 bool init_drives(void)
 {
-   //bool mainRebootReq = false;
-   //bool loopRebootReq = false;
+   printf("init drives started \n");
    bool feedRebootReq = false;
 
 
@@ -349,12 +349,13 @@ bool init_drives(void)
    }
    else
 		modbusTCPconnected = true;
+      printf("modbusTCPconnecter = true \n");
    
 
    shared_Mem->integer.Value[INFO_PROGRESS] = 80;
    if (!drvFeed.download_done)
    {
-      printf("drvFeed not downloaded\n");
+      printf("drvFeed not downloaded yet\n");
       digitax_DisableDrive(&digitaxFeed);
          
       if (!digitax_InitDrive(&digitaxFeed, DRIVEMODE_RFCS, digitaxParamsFeed, &feedRebootReq))
@@ -363,13 +364,19 @@ bool init_drives(void)
       digitax_SetTorque(&digitaxFeed, 0);
       
       digitax_SetTorqueMode(&digitaxFeed, 0);  // Torque mode
+      printf("Set Torque mode digitaxFeed=0 \n");
       
       drvFeed.download_done = 1;
+
+      printf("Init feed drive succeeded\n");
       //debugPrint("Init feed drive succeeded\n");      
    }
    shared_Mem->integer.Value[INFO_PROGRESS] = 90;   
    //idleloop_cyclic();
    digitax_EnableDrive(&digitaxFeed);
+
+   printf("enable drive\n");
+
    if (feedRebootReq)
    {
    //   debugPrint("rebootreq\n");
@@ -378,14 +385,18 @@ bool init_drives(void)
       {
          wait_np(1);
          //idleloop_cyclic();
+         printf("reboot required \n");
       }
    }
-   feed_SetTorqueMode();
+   //feed_SetTorqueMode();
+   digitax_SetTorqueMode(&digitaxFeed ,0);
 
    download_done = 1; 
    shared_Mem->integer.Value[INFO_PROGRESS] = 100;   
    wait_np(30);
    shared_Mem->integer.Value[INFO_PROGRESS] = 0;
+
+   printf("Init drives succeeded\n");
    return true;
 }
 
@@ -575,6 +586,7 @@ void *idleloop(void *t)
 
    digitax_Init(&digitaxFeed,"192.168.1.16",1);  // DUBBELKOLLA IP OCH ID
    drvFeed_Init();
+   
 
    
 
@@ -596,6 +608,7 @@ void *idleloop(void *t)
       ++cycleCnt;
       ebmControl(0);
       heartbeat_cyclic();
+
 //      robotCon_Cyclic();
       if (cycleCnt % 3000 == 0)
          cmos_Save();
@@ -716,6 +729,11 @@ void *idleloop(void *t)
                         printf("Output 1 and 2 on \n");
                         M2_STEP_ON;
                         M2_DIR_ON;
+
+                        
+                        digitax_DisableDrive(&digitaxFeed);
+
+
                         oldMotor = true;
                      }
                      else if (oldMotor)
@@ -723,6 +741,13 @@ void *idleloop(void *t)
                         printf("Output 1 and 2 off \n");
                         M2_STEP_OFF;
                         M2_DIR_OFF;
+
+
+
+                        if (digitax_CheckHealthy(&digitaxFeed)) {printf("digitax healthy \n");}
+
+
+
                         oldMotor = false;
                      }
                      break;
@@ -731,12 +756,17 @@ void *idleloop(void *t)
                         if (!oldServo) {
                            printf("SERVO ON\n");
                            SERVO_ON;
-                           drvFeed_SetSpeed_rpm(shared_Mem->integer.Value[IO_CMOS_VALUE]);
+                           //drvFeed_SetSpeed_rpm(shared_Mem->integer.Value[IO_CMOS_VALUE]);
+                           //drvFeed_SetSpeed_rpm(50);
+                           digitax_SetSpeed(&digitaxFeed, 5000);
                            //digitax_Run(&digitaxFeed);
+                           oldServo = true;
                         }
                         else {
                            SERVO_OFF;
+                           drvFeed_SetSpeed_rpm(0);
                            printf("SERVO OFF\n");
+                           oldServo = false;
                         }
                         
                      }
